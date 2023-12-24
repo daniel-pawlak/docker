@@ -1,0 +1,4 @@
+mariadb==1.0.11
+requests
+pandas
+schedule
